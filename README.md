@@ -1,2 +1,2 @@
-# sturdy-computing-machine
+# PBAN-MatSeg
 Physics-Based Adaptive Network
